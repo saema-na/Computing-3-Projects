@@ -1,3 +1,5 @@
+// README: not finished
+
 /***********************************************
 Author: Saema Nazar
 Date: 2/12/2020
@@ -13,7 +15,7 @@ The practice of good ethical behavior is essential for maintaining
 good order in the classroom, providing an enriching learning
 experience for students, and as training as a practicing computing
 professional upon graduation. This practice is manifested in the
-University’s Academic Integrity policy. Students are expected to
+Universityâ€™s Academic Integrity policy. Students are expected to
 strictly avoid academic dishonesty and adhere to the Academic
 Integrity policy as outlined in the course catalog. Violations will
 be dealt with as outlined therein.
